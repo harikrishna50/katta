@@ -11,7 +11,7 @@ int add(int a, int b) // basic add function
     printf("enter the c value to modify");
     scanf("%d", &c);
 
-    return a + b;
+    return a - b;
 
 }
 
